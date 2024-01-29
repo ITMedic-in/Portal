@@ -688,15 +688,15 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-u1vr1ibrK1 {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+.cid-u2MsAZdlYy {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #40b0bf;
 }
 .cid-u1qcPQpFcr {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pattern.png");
 }
 @media (max-width: 991px) {
   .cid-u1qcPQpFcr .image-wrapper {
@@ -714,26 +714,15 @@ a {
     padding: 2rem;
   }
 }
-.cid-u2LEhCHF7O {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-  background-color: #98dee8;
+.cid-u1qcPQpFcr .mbr-section-title {
+  color: #2299aa;
 }
-.cid-u2LEhCHF7O .row {
-  align-items: center;
+.cid-u2MxlJBZBH {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #65c6d4;
 }
-@media (max-width: 991px) {
-  .cid-u2LEhCHF7O .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-u2LEhCHF7O .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-u2LEhCHF7O .mbr-text,
-.cid-u2LEhCHF7O .mbr-section-btn {
+.cid-u2MxlJBZBH .mbr-section-title {
   text-align: left;
 }
 .cid-PquD1R1H3E {
@@ -778,10 +767,10 @@ a {
 .cid-PquD1R1H3E .dropdown-item:hover,
 .cid-PquD1R1H3E .dropdown-item:focus {
   background: #65c6d4 !important;
-  color: #fafafa !important;
+  color: #232323 !important;
 }
 .cid-PquD1R1H3E .dropdown-item:hover span {
-  color: #fafafa;
+  color: #232323;
 }
 .cid-PquD1R1H3E .dropdown-item:first-child {
   border-top-left-radius: 4px;
@@ -1199,10 +1188,10 @@ a {
 .cid-PquD1R1H3E .dropdown-item:hover,
 .cid-PquD1R1H3E .dropdown-item:focus {
   background: #65c6d4 !important;
-  color: #fafafa !important;
+  color: #232323 !important;
 }
 .cid-PquD1R1H3E .dropdown-item:hover span {
-  color: #fafafa;
+  color: #232323;
 }
 .cid-PquD1R1H3E .dropdown-item:first-child {
   border-top-left-radius: 4px;
@@ -1559,7 +1548,7 @@ a {
 .cid-u2M6Ld4sHj {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #353535;
 }
 .cid-u2M6Ld4sHj .mbr-section-title {
   color: #ffffff;
